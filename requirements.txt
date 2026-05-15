@@ -1,0 +1,19 @@
+# ── Core UI ──────────────────────────────────────────────────────────────────
+streamlit==1.45.1
+
+# ── LLM & Orchestration ──────────────────────────────────────────────────────
+langchain-core>=0.3.0
+langchain-groq==1.1.2
+langchain-community==0.3.31
+langchain-text-splitters>=0.3.0
+langgraph==1.2.0
+
+# ── Vector Store & Embeddings ────────────────────────────────────────────────
+faiss-cpu==1.9.0.post1
+sentence-transformers==3.4.1
+
+# ── PDF Parsing ───────────────────────────────────────────────────────────────
+pypdf==5.9.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv==1.2.2
