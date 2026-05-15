@@ -151,7 +151,8 @@ Sign up at [console.groq.com](https://console.groq.com) → **API Keys** → **C
 
 The diagram below shows how a user message flows through the system:
 
-![Architecture](architecture.svg)
+<img width="1216" height="880" alt="DocuMind" src="https://github.com/user-attachments/assets/4a96b236-3e9b-4b5e-8672-f678fa6cc38f" />
+
 
 ### Flow walkthrough
 
